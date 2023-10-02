@@ -6,7 +6,7 @@
 
 # WinForms Data Grid - Select rows with the mouse
 
-This example handles `MouseDown`, `MouseMove`, and `MouseUp` event to allow users to select data rows by moving the mouse pointer across grid rows while the mouse button is pressed.
+This example handles `MouseDown`, `MouseMove`, and `MouseUp` events to allow users to select data rows by moving the mouse pointer across grid rows while the mouse button is pressed.
 
 
 ## Files to Review
